@@ -1,0 +1,13 @@
+!SESSION 2026-09-10 03:20:38.364 -----------------------------------------------
+eclipse.buildId=4.40.0.20260604-0652
+java.version=21.0.11
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/rohitkumar/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/rohitkumar/.eclipse_keyring -data /Users/rohitkumar/AUTOMATION BATCH/opencart
+
+!ENTRY ch.qos.logback.classic 1 0 2026-09-10 03:20:41.887
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-09-10 03:20:43.079
+!MESSAGE Logback config file: /Users/rohitkumar/AUTOMATION BATCH/opencart/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
