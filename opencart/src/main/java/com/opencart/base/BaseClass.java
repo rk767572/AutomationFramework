@@ -30,7 +30,7 @@ public class BaseClass {
     public void setUp() {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-        driver.get(prop.getProperty("url"));
+        driver.get("https://naveenautomationlabs.com/opencart/"); // Yahan direct URL pass kar dein
     }
 
     @AfterMethod
